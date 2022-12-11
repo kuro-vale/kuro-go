@@ -7,4 +7,4 @@ Codewars discourage sharing solutions, that's why I only share my 8 kyu solution
 
 ### Current Go rank
 
-![Go Rank](https://shields.io/badge/-7%20kyu-white?logo=go&style=for-the-badge)
+![Go Rank](https://shields.io/badge/-6%20kyu-white?logo=go&style=for-the-badge)
